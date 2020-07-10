@@ -1,3 +1,3 @@
-## Hello! :smiley_cat:
+## Hello World! :smiley_cat:
 
-### Im Aulia, an Informatic Engineering Student & Freelance Web Developer :man_technologist::man_student:
+### I'm Aulia, an Informatic Engineering Student & Freelance Web Developer :man_technologist::man_student:
