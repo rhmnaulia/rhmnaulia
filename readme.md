@@ -51,6 +51,17 @@ I'm Aulia, an Informatic Engineering Student & Freelance Web Developer :man_tech
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/rhmnaulia/github-readme-stats)
 
