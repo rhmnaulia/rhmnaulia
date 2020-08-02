@@ -55,10 +55,6 @@ I'm Aulia, an Informatic Engineering Student & Freelance Web Developer :man_tech
 <br />
 <br />
 <br />
-<br />
-<br />
-
-
 
 
 
