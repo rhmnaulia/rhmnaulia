@@ -4,7 +4,7 @@ I'm Aulia, an Informatic Engineering Student & Freelance Web Developer :man_tech
 
 
 ## I'm a Student, and  Developer!
-- 🔭 I’m currently working on a my portfolio website
+- 🔭 I’m currently working on my portfolio website
 - 🌱 I’m currently learning the weird part of javascript 🤣
 - 👯 I’m looking for developer friends!
 - 🥅 2020 Goals: Build up my resume and get an internship
