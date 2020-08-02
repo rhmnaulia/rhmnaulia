@@ -43,7 +43,7 @@ I'm Aulia, an Informatic Engineering Student & Freelance Web Developer :man_tech
 
 
 
-<!-- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rhmnaulia&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/rhmnaul
 [instagram]: https://instagram.com/rhmnaulia
