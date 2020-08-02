@@ -47,6 +47,14 @@ I'm Aulia, an Informatic Engineering Student & Freelance Web Developer :man_tech
 
 <img align="left" alt="Aulia Rahman Github Stats" src="https://github-readme-stats.vercel.app/api?username=rhmnaulia&hide=prs,issues&theme=radical&show_icons=true&hide_border=true" />
 
+<br />
+<br />
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/rhmnaulia/github-readme-stats)
+
+
 [twitter]: https://twitter.com/rhmnaul
 [instagram]: https://instagram.com/rhmnaulia
 [linkedin]: https://linkedin.com/in/rhmnaulia
