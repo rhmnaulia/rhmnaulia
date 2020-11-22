@@ -1,11 +1,11 @@
 ## Hello World! :smiley_cat:
 
-I'm Aulia, a Computer Science Student & Freelance Web Developer :man_technologist::man_student: from indonesia. I'm passionate about programming and software engineering. I love to learn about new things especially in Tech world.
+I'm Aulia, a Computer Science Student & Software Engineer Intern at Fintax :man_technologist::man_student: from indonesia. I'm passionate about programming and software engineering. I love to learn about new things especially in Tech world.
 
 
 ## I'm a Student, and  Developer!
-- 👷‍♂️ I’m currently working on my portfolio website and freelance job
-- 🚀 I’m currently learning the weird part of javascript 🤣
+- 👷‍ I’m currently working as an Software Engineer Intern at Fintax
+- 🚀 I’m currently learning NEXT.JS and GO-Lang
 - 👋 I’m looking for developer friends!
 - 🎯 2020 Goals: Build up my resume and get an internship
 - ⚡ Fun fact: I love to play basketball and video game
