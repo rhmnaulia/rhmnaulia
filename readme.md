@@ -4,7 +4,7 @@ I'm Aulia, a Computer Science Student & Software Engineer Intern at Fintax :man_
 
 
 ## I'm a Student, and  Developer!
-- 👷‍ I’m currently working as an Software Engineer Intern at Fintax
+- 👷‍ I’m currently working as a Software Engineer Intern at Fintax
 - 🚀 I’m currently learning NEXT.JS and GO-Lang
 - 👋 I’m looking for developer friends!
 - 🎯 2020 Goals: Build up my resume and get an internship
