@@ -7,7 +7,7 @@ I'm Aulia, a Computer Science Student & Software Engineer Intern at Fintax :man_
 - 👷‍ I’m currently working as a Software Engineer Intern at Fintax
 - 🚀 I’m currently learning NEXT.JS and GO-Lang
 - 👋 I’m looking for developer friends!
-- 🎯 2020 Goals: Build up my resume and get an internship
+- 🎯 2021 Goals: Finish my scientific research and get a fulltime job
 - ⚡ Fun fact: I love to play basketball and video game
 
 ### Connect with me:
