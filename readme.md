@@ -1,11 +1,8 @@
 ## Hello World! :smiley_cat:
 
-I'm Aulia, a Computer Science Student & Software Engineer Intern at Fintax :man_technologist::man_student: from indonesia. I'm passionate about programming and software engineering. I love to learn about new things especially in Tech world.
-
+I'm Aulia, a Computer Science Student and Software engineer experienced in Javascript (React, Vue, Node), and some Golang knowledge. Curious by nature. I am passionate about creating clean and maintainable code to solve a problem. I am always hungry for knowledge. Let's be pal!
 
 ## I'm a Student, and  Developer!
-- 👷‍ I’m currently working as a Software Engineer Intern at Fintax
-- 🚀 I’m currently learning NEXT.JS and GO-Lang
 - 👋 I’m looking for developer friends!
 - 🎯 2021 Goals: Finish my scientific research and get a fulltime job
 - ⚡ Fun fact: I love to play basketball and video game
