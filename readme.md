@@ -1,4 +1,4 @@
-<h1 align="center">Hi 😺, I'm Aulia Rahman! 🐱‍💻</h1>
+<h1 align="center">Hi 😺, I'm Aulia Rahman 🐱‍💻</h1>
 <br>
 
 <p align = "center">
